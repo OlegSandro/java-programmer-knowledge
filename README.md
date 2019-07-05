@@ -1,2 +1,2 @@
 # java-programmer-knowledge
-The knowledge that a programmer should have
+The knowledge that a Java programmer should have
